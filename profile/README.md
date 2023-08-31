@@ -5,7 +5,7 @@ This is a Github Organization that will be used to host the club's code and othe
 ## Officers
 - Ikaia Melton - President
 - Adetunji Adewoye - Vice-President
-- Ethan Jones
-- Dylan Youmans
-- Dylan Franklin
+- Ethan Jones - Secretary
+- Dylan Youmans - Marketing
+- Dylan Franklin - Event Planner
 
